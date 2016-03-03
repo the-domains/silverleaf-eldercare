@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-03T20:17:53.260Z'
-dateModified: '2016-03-03T20:15:56.518Z'
+datePublished: '2016-03-03T20:18:56.753Z'
+dateModified: '2016-03-03T20:18:44.912Z'
 title: 'Welcome to Silverleaf Eldercare!'
 author: []
 sourcePath: _posts/2016-03-03-welcome-to-silverleaf-eldercare.md
