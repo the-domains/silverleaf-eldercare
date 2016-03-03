@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Residential Assisted Living in the Northwest Hills neighborhood of Austin
-datePublished: '2016-03-03T22:01:11.044Z'
-dateModified: '2016-03-03T22:01:07.765Z'
+datePublished: '2016-03-03T22:17:02.342Z'
+dateModified: '2016-03-03T22:16:58.742Z'
 title: Take a Look Inside our Community at Wildridge
 author: []
 sourcePath: _posts/2016-03-03-take-a-look-inside-our-community-at-wildridge.md
@@ -30,9 +30,9 @@ Our 3500 square foot, single story home in the Northwest Hills neighborhood of A
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3424651b-433e-46ff-872a-6c7aaa5ea456.jpg)
 
 In the central hub of activity, you'll find two large living spaces divided by a central hearth and adjoined by an open dining area and kitchen. Wrap-around windows in second living space and dining area give an indoor / outdoor feel and connection with nature.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d24581e2-80a6-4659-ace3-0ec77493bb76.jpg)
 
 Oak trees provide shade for relaxation on the back deck. And the private backyard is awash in color from the flowering gardens and activity at the birdfeeders.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d24581e2-80a6-4659-ace3-0ec77493bb76.jpg)
 
 There are two wings off either side of the activity hub where residents' rooms can be found. A range of room types are available, from shared rooms with double beds to private rooms. And there are a few premium rooms with their own bathrooms for extra privacy.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c2bedc1-fde3-4530-a4e8-fc80f1450f95.jpg)
