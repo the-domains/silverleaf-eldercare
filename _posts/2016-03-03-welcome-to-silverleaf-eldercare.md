@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-03T20:18:56.753Z'
-dateModified: '2016-03-03T20:18:44.912Z'
+datePublished: '2016-03-03T20:20:27.367Z'
+dateModified: '2016-03-03T20:20:20.683Z'
 title: 'Welcome to Silverleaf Eldercare!'
 author: []
 sourcePath: _posts/2016-03-03-welcome-to-silverleaf-eldercare.md
@@ -32,8 +32,6 @@ You have many choices to make as you and your loved ones get older and need more
 The family at **Silverleaf Eldercare** strives to give you the best of both those options. Our home at Wildridge in the Northwest Hills neighborhood of Austin gives you attentive care and attention twenty four hours a day in a comfortable, recognizable setting. With just 12 residents to care for, our certified caregivers are there any moment you need them. 
 
 In our community you will form bonds of friendship and camaraderie with your fellow residents and our kind, well-trained staff. There's no substitute for social connection. And at Silverleaf Eldercare at Wildridge, there's no worry of being lost in the crowd. 
-
-Here are just a few of the amenities you'll enjoy at Silverleaf Eldercare:
 
 * Your choice of a shared, private, or private room with private bathroom.
 * **Organic foods ****delivered fresh from our ****partners at local organic farms**. Hippocrates said that food is the best medicine, and we believe it is as true today as it was a few thousand years ago. 
