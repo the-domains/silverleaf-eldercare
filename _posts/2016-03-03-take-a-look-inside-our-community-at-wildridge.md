@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-03T21:34:26.384Z'
-dateModified: '2016-03-03T21:34:17.588Z'
+datePublished: '2016-03-03T21:37:55.128Z'
+dateModified: '2016-03-03T21:37:28.432Z'
 title: Take a Look Inside our Community at Wildridge
 author: []
+sourcePath: _posts/2016-03-03-take-a-look-inside-our-community-at-wildridge.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-03-take-a-look-inside-our-community-at-wildridge.md
-published: true
 url: take-a-look-inside-our-community-at-wildridge/index.html
 _type: Article
 
