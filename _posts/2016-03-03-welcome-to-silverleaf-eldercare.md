@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-03T20:15:55.704Z'
-dateModified: '2016-03-03T20:14:51.650Z'
+datePublished: '2016-03-03T20:17:53.260Z'
+dateModified: '2016-03-03T20:15:56.518Z'
 title: 'Welcome to Silverleaf Eldercare!'
 author: []
 sourcePath: _posts/2016-03-03-welcome-to-silverleaf-eldercare.md
@@ -41,4 +41,6 @@ Here are just a few of the amenities you'll enjoy at Silverleaf Eldercare:
 * **Activities for the body** - elder yoga & tai chi, herb and flower gardening in our backyard raised beds...
 * **Activities for the mind and spirit** - adult coloring books, pet therapy, live music, holiday parties... Laughter is good medicine too!
 
-Please call Jay Brenizer at (512) 897-0124 for
+Please call Jay Brenizer at (512) 897-0124 for further details. 
+
+**Silverleaf Eldercare @ Wildridge - opening for care in June 2016\.**
