@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Residential Assisted Living in the Northwest Hills neighborhood of Austin
-datePublished: '2016-03-03T22:22:10.374Z'
-dateModified: '2016-03-03T22:21:00.648Z'
+datePublished: '2016-03-03T22:22:50.901Z'
+dateModified: '2016-03-03T22:22:48.212Z'
 title: Take a Look Inside our Community at Wildridge
 author: []
 sourcePath: _posts/2016-03-03-take-a-look-inside-our-community-at-wildridge.md
@@ -25,7 +25,7 @@ _type: Article
 # Take a Look Inside our Community at Wildridge
 
 **Creature Comforts. Certified care. Social connection.**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3424651b-433e-46ff-872a-6c7aaa5ea456.jpg)
+![Welcome to Silverleaf Eldercare @ Wildridge](https://s3-us-west-2.amazonaws.com/the-grid-img/p/23a169167d7a1f818a3de1f9ae07201115d44b8d.jpg)
 
 Our 3500 square foot, single story home in the Northwest Hills neighborhood of Austin has been intelligently re-designed by award winning Matt Fajkus Architects.
 
