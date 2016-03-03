@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Assisted Living at Wildridge - a community in Austin's Northwest Hills neighborhood"
-datePublished: '2016-03-03T21:54:47.968Z'
-dateModified: '2016-03-03T21:52:59.594Z'
+datePublished: '2016-03-03T22:18:56.967Z'
+dateModified: '2016-03-03T22:18:53.304Z'
 title: 'Welcome to Silverleaf Eldercare!'
 author: []
 sourcePath: _posts/2016-03-03-welcome-to-silverleaf-eldercare.md
@@ -40,6 +40,7 @@ Here are just a few of the amenities you will enjoy at Silverleaf Eldercare:
 * **Chefs** who prepare healthy and tasty meal plans.
 * **Activities for the body** - elder yoga & tai chi, herb and flower gardening in our backyard raised beds...
 * **Activities for the mind and spirit** - adult coloring books, pet therapy, live music, holiday parties... Laughter is good medicine too!
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/16cea0f2-cdf9-4dbd-b29d-8a155148cb67.jpg)
 
 Please call Jay Brenizer at (512) 897-0124 for further details. 
 
