@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-03T20:05:05.399Z'
-dateModified: '2016-03-03T20:04:57.727Z'
+datePublished: '2016-03-03T20:15:55.704Z'
+dateModified: '2016-03-03T20:14:51.650Z'
 title: 'Welcome to Silverleaf Eldercare!'
 author: []
+sourcePath: _posts/2016-03-03-welcome-to-silverleaf-eldercare.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-03-welcome-to-silverleaf-eldercare.md
-published: true
 url: welcome-to-silverleaf-eldercare/index.html
 _type: Article
 
@@ -29,12 +29,16 @@ _type: Article
 
 You have many choices to make as you and your loved ones get older and need more attention and care. Some people prefer a large community that starts from a place of active retirement. Others might wish to stay in their own homes as long as possible. 
 
-The family at **Silverleaf Eldercare** strives to give you the best of both those options. Our home at Wildridge in the Northwest Hills neighborhood of Austin gives you attentive care and attention twenty four hours a day in a comfortable, recognizable setting. With just 12 residents to care for, our certified caregivers are there any moment you need them.
+The family at **Silverleaf Eldercare** strives to give you the best of both those options. Our home at Wildridge in the Northwest Hills neighborhood of Austin gives you attentive care and attention twenty four hours a day in a comfortable, recognizable setting. With just 12 residents to care for, our certified caregivers are there any moment you need them. 
+
+In our community you will form bonds of friendship and camaraderie with your fellow residents and our kind, well-trained staff. There's no substitute for social connection. And at Silverleaf Eldercare at Wildridge, there's no worry of being lost in the crowd. 
 
 Here are just a few of the amenities you'll enjoy at Silverleaf Eldercare:
 
 * Your choice of a shared, private, or private room with private bathroom.
-* **Organic foods****delivered fresh from our ****partners at local organic farms**. Hippocrates said that food is the best medicine, and we believe it is as true today as it was a few thousand years ago. 
+* **Organic foods ****delivered fresh from our ****partners at local organic farms**. Hippocrates said that food is the best medicine, and we believe it is as true today as it was a few thousand years ago. 
 * **Chefs** who prepare healthy and tasty meal plans.
 * **Activities for the body** - elder yoga & tai chi, herb and flower gardening in our backyard raised beds...
 * **Activities for the mind and spirit** - adult coloring books, pet therapy, live music, holiday parties... Laughter is good medicine too!
+
+Please call Jay Brenizer at (512) 897-0124 for
