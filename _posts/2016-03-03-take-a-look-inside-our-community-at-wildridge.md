@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Residential Assisted Living in the Northwest Hills neighborhood of Austin
-datePublished: '2016-03-03T21:55:12.638Z'
-dateModified: '2016-03-03T21:54:45.449Z'
+datePublished: '2016-03-03T21:59:19.083Z'
+dateModified: '2016-03-03T21:59:11.798Z'
 title: Take a Look Inside our Community at Wildridge
 author: []
 sourcePath: _posts/2016-03-03-take-a-look-inside-our-community-at-wildridge.md
@@ -24,10 +24,10 @@ _type: Article
 ---
 # Take a Look Inside our Community at Wildridge
 
-Creature Comforts. Certified care. Social connection.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3424651b-433e-46ff-872a-6c7aaa5ea456.jpg)
+**Creature Comforts. Certified care. Social connection.**
 
 Our 3500 square foot, single story home has been intelligently re-designed by award winning Matt Fajkus Architects.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3424651b-433e-46ff-872a-6c7aaa5ea456.jpg)
 
 In the central hub of activity, you'll find two large living spaces divided by a central hearth and adjoined by an open dining area and kitchen. Wrap-around windows in second living space and dining area give an indoor / outdoor feel and connection with nature.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d24581e2-80a6-4659-ace3-0ec77493bb76.jpg)
