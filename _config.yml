@@ -1,0 +1,28 @@
+name: Silverleaf Eldercare
+favicon: null
+layout_spectrum: 0.4458203080575913
+typography_spectrum: 0.5974997982848436
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.029905429342761636
+  lightness: 0.38252436183393
+  saturation: 0.8434942362364382
+  rhythmicContrast: 0.21039613639004529
+purpose: []
