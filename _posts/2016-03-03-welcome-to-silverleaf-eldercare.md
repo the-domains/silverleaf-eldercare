@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Assisted Living at Wildridge - a community in Austin's Northwest Hills neighborhood"
-datePublished: '2016-03-04T04:15:12.924Z'
-dateModified: '2016-03-04T04:15:09.799Z'
+datePublished: '2016-03-04T04:30:14.452Z'
+dateModified: '2016-03-04T04:30:11.726Z'
 title: 'Welcome to Silverleaf Eldercare!'
 author: []
 sourcePath: _posts/2016-03-03-welcome-to-silverleaf-eldercare.md
@@ -37,7 +37,7 @@ Please call Jay Brenizer at (512) 897-0124 for further details.
 
 **Silverleaf Eldercare @ Wildridge - opening for care in June 2016\.**
 
-# Here are just a few of the amenities you will enjoy at Silverleaf Eldercare:
+## Here are just a few of the amenities you will enjoy at Silverleaf Eldercare:
 
 -- Your choice of a shared, private, or private room with private bathroom.
 
