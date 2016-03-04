@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Assisted Living at Wildridge - a community in Austin's Northwest Hills neighborhood"
-datePublished: '2016-03-03T22:23:43.167Z'
-dateModified: '2016-03-03T22:20:37.393Z'
+datePublished: '2016-03-04T01:49:19.080Z'
+dateModified: '2016-03-04T01:49:14.588Z'
 title: 'Welcome to Silverleaf Eldercare!'
 author: []
 sourcePath: _posts/2016-03-03-welcome-to-silverleaf-eldercare.md
@@ -31,17 +31,16 @@ You have many choices to make as you and your loved ones get older and need more
 
 The family at **Silverleaf Eldercare** strives to give you the best of both those options. Our home at Wildridge in the Northwest Hills neighborhood of Austin gives you attentive care and attention twenty four hours a day in a comfortable, recognizable setting. With just 12 residents to care for, our certified caregivers are there any moment you need them. 
 
-In our community you will form bonds of friendship and camaraderie with your fellow residents and our kind, well-trained staff. There's no substitute for social connection. And at Silverleaf Eldercare at Wildridge, there's no worry of being lost in the crowd. 
-
-Here are just a few of the amenities you will enjoy at Silverleaf Eldercare:
-
-* Your choice of a shared, private, or private room with private bathroom.
-* **Organic foods ****delivered fresh from our ****partners at local organic farms**. Hippocrates said that food is the best medicine, and we believe it is as true today as it was a few thousand years ago. 
-* **Chefs** who prepare healthy and tasty meal plans.
-* **Activities for the body** - elder yoga & tai chi, herb and flower gardening in our backyard raised beds...
-* **Activities for the mind and spirit** - adult coloring books, pet therapy, live music, holiday parties... Laughter is good medicine too!
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/16cea0f2-cdf9-4dbd-b29d-8a155148cb67.jpg)
+In our community you will form bonds of friendship and camaraderie with your fellow residents and our kind, well-trained staff. There's no substitute for social connection. And at Silverleaf Eldercare at Wildridge, there's no worry of being lost in the crowd. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/16cea0f2-cdf9-4dbd-b29d-8a155148cb67.jpg)
 
 Please call Jay Brenizer at (512) 897-0124 for further details. 
 
 **Silverleaf Eldercare @ Wildridge - opening for care in June 2016\.**
+
+Here are just a few of the amenities you will enjoy at Silverleaf Eldercare:
+
+* Your choice of a shared, private, or private room with private bathroom.
+* **Organic foods ****delivered fresh from our****partners at local organic farms**. Hippocrates said that food is the best medicine, and we believe it is as true today as it was a few thousand years ago. 
+* **Chefs**who prepare healthy and tasty meal plans.
+* **Activities for the body**- elder yoga & tai chi, herb and flower gardening in our backyard raised beds...
+* **Activities for the mind and spirit**- adult coloring books, pet therapy, live music, holiday parties... Laughter is good medicine too!
