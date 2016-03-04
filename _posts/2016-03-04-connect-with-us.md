@@ -1,25 +1,25 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: Start the conversation today
-datePublished: '2016-03-04T02:03:52.109Z'
-dateModified: '2016-03-04T02:03:47.203Z'
+datePublished: '2016-03-04T02:06:32.803Z'
+dateModified: '2016-03-04T02:06:20.140Z'
 title: Connect With Us
 author: []
+sourcePath: _posts/2016-03-04-connect-with-us.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-04-connect-with-us.md
-published: true
-url: connect-with-us/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Connect With Us
