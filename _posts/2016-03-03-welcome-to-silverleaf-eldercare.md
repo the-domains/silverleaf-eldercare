@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Assisted Living at Wildridge - a community in Austin's Northwest Hills neighborhood"
-datePublished: '2016-03-04T02:40:17.957Z'
-dateModified: '2016-03-04T02:40:13.778Z'
+datePublished: '2016-03-04T04:13:29.310Z'
+dateModified: '2016-03-04T04:13:04.703Z'
 title: 'Welcome to Silverleaf Eldercare!'
 author: []
 sourcePath: _posts/2016-03-03-welcome-to-silverleaf-eldercare.md
@@ -24,7 +24,7 @@ _type: Article
 ---
 # Welcome to Silverleaf Eldercare!
 
-**Where we believe the Golden Years deserve a silver lining**
+**Where we believe the Golden Years deserve a silver lining.**
 ![Laughter is the best medicine](https://s3-us-west-2.amazonaws.com/the-grid-img/p/48f4ed46a2ca901cb5880a562da1bdd3b69f10c7.jpg)
 
 You have many choices to make as you and your loved ones get older and need more attention and care. Some people prefer a large community that starts from a place of active retirement. Others might wish to stay in their own homes as long as possible. 
@@ -48,4 +48,4 @@ Please call Jay Brenizer at (512) 897-0124 for further details.
 **-- Activities for the body**- elder yoga & tai chi, herb and flower gardening in our backyard raised beds...
 
 **-- Activities for the mind and spirit**- adult coloring books, pet therapy, live music, holiday parties... Laughter is good medicine too!
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/16cea0f2-cdf9-4dbd-b29d-8a155148cb67.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e5658015a5a0099c9d33cc0c55c4ebe61fad8857.jpg)
