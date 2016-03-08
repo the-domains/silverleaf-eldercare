@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Start the conversation today
-datePublished: '2016-03-04T02:25:05.958Z'
-dateModified: '2016-03-04T02:25:03.290Z'
+datePublished: '2016-03-08T01:12:09.855Z'
+dateModified: '2016-03-08T01:11:57.253Z'
 title: Connect With Us
 author: []
 sourcePath: _posts/2016-03-04-connect-with-us.md
@@ -31,4 +31,4 @@ We'll be officially opening in June 2016, but there's no reason to wait. **Start
 
 Come join the family!
 
-[0]: http://digital-tales.leadpages.co/50criticalquestionsdpap
+[0]: https://digital-tales.leadpages.co/silverleaf-eldercare-topsigns-oi/
