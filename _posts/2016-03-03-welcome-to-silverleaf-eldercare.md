@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Assisted Living at Wildridge - a community in Austin's Northwest Hills neighborhood"
-datePublished: '2016-03-04T04:31:41.078Z'
-dateModified: '2016-03-04T04:31:37.993Z'
+datePublished: '2016-03-08T02:06:35.985Z'
+dateModified: '2016-03-08T02:06:19.441Z'
 title: 'Welcome to Silverleaf Eldercare!'
 author: []
 sourcePath: _posts/2016-03-03-welcome-to-silverleaf-eldercare.md
@@ -29,7 +29,9 @@ _type: Article
 
 You have many choices to make as you and your loved ones get older and need more attention and care. Some people prefer a large community that starts from a place of active retirement. Others might wish to stay in their own homes as long as possible. 
 
-The family at **Silverleaf Eldercare ****strives to give you the best of both those options.** Our home at Wildridge in the Northwest Hills neighborhood of Austin gives you attentive care and attention twenty four hours a day in a comfortable, recognizable setting. With just 12 residents to care for, our certified caregivers are there any moment you need them. 
+The family at **Silverleaf Eldercare ****strives to give you the best of both those options.**
+
+Our **Residential Assisted Living** home at Wildridge in the Northwest Hills neighborhood of Austin gives you attentive care and attention twenty four hours a day in a comfortable, recognizable setting. With just 12 residents to care for, our certified caregivers are there any moment you need them. 
 
 In our community you will form bonds of friendship and camaraderie with your fellow residents and our kind, well-trained staff. **There's no substitute for social connection. And at Silverleaf Eldercare at Wildridge, there's no worry of being lost in the crowd.**
 
