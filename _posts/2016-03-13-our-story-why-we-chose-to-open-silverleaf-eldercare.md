@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "A couple years ago we didn't know that assisted living communities in residential neighborhoods existed. But then that is probably the way it is for everyone, until they realize they need some help taking care of an older member of the family."
-datePublished: '2016-03-13T00:10:35.820Z'
-dateModified: '2016-03-13T00:08:59.999Z'
+datePublished: '2016-03-13T01:40:16.601Z'
+dateModified: '2016-03-13T01:40:02.738Z'
 title: 'Our Story: Why We Chose to Open Silverleaf Eldercare'
 author: []
+sourcePath: _posts/2016-03-13-our-story-why-we-chose-to-open-silverleaf-eldercare.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-13-our-story-why-we-chose-to-open-silverleaf-eldercare.md
-published: true
 url: our-story-why-we-chose-to-open-silverleaf-eldercare/index.html
 _type: Article
 
@@ -32,7 +32,7 @@ Michelle's dad has one of those degenerative memory ailments. No matter what the
 
 I'm sure many of you can relate.
 
-So we made the tough decision and started looking for a place where he could get the 24/7 care he needed from energetic staff who were well-trained to deal with his specific issues. 
+So we made the tough decision and started looking for a place where he could get the 24/7 care he needed from energetic staff who were well-trained to deal with his specific issues. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/76c2cb4a-8722-43f4-8285-415052a86562.jpg)
 
 Initially we placed him in a large, VA approved assisted living / skilled nursing facility. He's a proud veteran and we hoped it would be a place he could settle into with little resistance. We quickly found it to be a nightmare. I won't go into all the details. Just know we needed to make a change fast.
 
@@ -45,4 +45,3 @@ Assisted Living for us has created the best life for our parents within the set 
 That's why we chose to create Silverleaf Eldercare, Residential Assisted Living in Austin, TX. We want to be an integral part of the community where we live. We want to pay it forward. It's our mission to create a healthy, safe, socially connected space where your loved ones will thrive. 
 
 Their Golden Years deserve a silver lining!
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/76c2cb4a-8722-43f4-8285-415052a86562.jpg)
