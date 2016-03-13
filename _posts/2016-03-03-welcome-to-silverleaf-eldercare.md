@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: true
 keywords: []
-description: "Assisted Living at Wildridge - a community in Austin's Northwest Hills neighborhood"
-datePublished: '2016-03-08T02:06:35.985Z'
-dateModified: '2016-03-08T02:06:19.441Z'
+description: Where we believe the Golden Years deserve a silver lining.
+datePublished: '2016-03-13T23:23:13.764Z'
+dateModified: '2016-03-13T23:23:13.279Z'
 title: 'Welcome to Silverleaf Eldercare!'
 author: []
 sourcePath: _posts/2016-03-03-welcome-to-silverleaf-eldercare.md
