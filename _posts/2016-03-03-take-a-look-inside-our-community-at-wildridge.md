@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: Residential Assisted Living in the Northwest Hills neighborhood of Austin
-datePublished: '2016-03-03T22:22:50.901Z'
-dateModified: '2016-03-03T22:22:48.212Z'
+description: Creature Comforts. Certified care. Social connection.
+datePublished: '2016-03-13T23:23:10.775Z'
+dateModified: '2016-03-13T23:23:10.444Z'
 title: Take a Look Inside our Community at Wildridge
 author: []
 sourcePath: _posts/2016-03-03-take-a-look-inside-our-community-at-wildridge.md
