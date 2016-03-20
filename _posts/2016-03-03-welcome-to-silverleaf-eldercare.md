@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Where we believe the Golden Years deserve a silver lining.
-datePublished: '2016-03-13T23:23:13.764Z'
-dateModified: '2016-03-13T23:23:13.279Z'
+datePublished: '2016-03-20T22:34:48.776Z'
+dateModified: '2016-03-20T22:34:44.191Z'
 title: 'Welcome to Silverleaf Eldercare!'
 author: []
 sourcePath: _posts/2016-03-03-welcome-to-silverleaf-eldercare.md
@@ -35,7 +35,7 @@ Our **Residential Assisted Living** home at Wildridge in the Northwest Hills nei
 
 In our community you will form bonds of friendship and camaraderie with your fellow residents and our kind, well-trained staff. **There's no substitute for social connection. And at Silverleaf Eldercare at Wildridge, there's no worry of being lost in the crowd.**
 
-Please call Jay Brenizer at (512) 897-0124 for further details. 
+Please call Jay Brenizer at (512) 829-7252 for further details. 
 
 **Silverleaf Eldercare @ Wildridge - opening for care in June 2016\.**
 
