@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "A few years ago we didn't know that assisted living communities in residential neighborhoods existed. But then that is probably the way it is for everyone, until they realize they need some help taking care of an older member of the family."
-datePublished: '2016-03-20T22:40:14.691Z'
-dateModified: '2016-03-20T22:36:43.660Z'
+datePublished: '2016-03-20T22:42:25.817Z'
+dateModified: '2016-03-20T22:42:23.854Z'
 title: 'Our Story: Why We Chose to Open Silverleaf Eldercare'
 author: []
 sourcePath: _posts/2016-03-13-our-story-why-we-chose-to-open-silverleaf-eldercare.md
@@ -43,5 +43,5 @@ And that's when we found out that dad could live in a house, so very much like t
 Assisted Living for us has created the best life for our parents within the set of circumstances that the world has put before us. Dealing with the inevitable signposts of aging isn't always easy, but it's comforting to know that there are people who care and places designed to help ease the strain and worry.
 
 That's why we chose to create Silverleaf Eldercare, Residential Assisted Living in Austin, TX. We want to be an integral part of the community where we live. We want to pay it forward. It's our mission to create a healthy, safe, socially connected space where your loved ones will thrive. 
-
-Their Golden Years deserve a silver lining!
+> 
+> Their Golden Years Deserve a Silver Lining!
