@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: "A couple years ago we didn't know that assisted living communities in residential neighborhoods existed. But then that is probably the way it is for everyone, until they realize they need some help taking care of an older member of the family."
-datePublished: '2016-03-13T23:23:06.195Z'
-dateModified: '2016-03-13T01:40:18.565Z'
+datePublished: '2016-03-20T22:31:45.972Z'
+dateModified: '2016-03-20T22:31:43.855Z'
 title: 'Our Story: Why We Chose to Open Silverleaf Eldercare'
 author: []
 sourcePath: _posts/2016-03-13-our-story-why-we-chose-to-open-silverleaf-eldercare.md
@@ -32,7 +32,7 @@ Michelle's dad has one of those degenerative memory ailments. No matter what the
 
 I'm sure many of you can relate.
 
-So we made the tough decision and started looking for a place where he could get the 24/7 care he needed from energetic staff who were well-trained to deal with his specific issues. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/76c2cb4a-8722-43f4-8285-415052a86562.jpg)
+So we made the tough decision and started looking for a place where he could get the 24/7 care he needed from energetic staff who were well-trained to deal with his specific issues. ![Jason and Michelle at the Alamo Drafthouse Cinema](https://s3-us-west-2.amazonaws.com/the-grid-img/p/62fc4449dd916780f45dae204df84ef7e85365af.jpg)
 
 Initially we placed him in a large, VA approved assisted living / skilled nursing facility. He's a proud veteran and we hoped it would be a place he could settle into with little resistance. We quickly found it to be a nightmare. I won't go into all the details. Just know we needed to make a change fast.
 
