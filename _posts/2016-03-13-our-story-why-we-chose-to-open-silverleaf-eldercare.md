@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "A few years ago we didn't know that assisted living communities in residential neighborhoods existed. But then that is probably the way it is for everyone, until they realize they need some help taking care of an older member of the family."
-datePublished: '2016-03-20T22:42:25.817Z'
-dateModified: '2016-03-20T22:42:23.854Z'
+datePublished: '2016-03-20T22:44:07.227Z'
+dateModified: '2016-03-20T22:44:04.246Z'
 title: 'Our Story: Why We Chose to Open Silverleaf Eldercare'
 author: []
 sourcePath: _posts/2016-03-13-our-story-why-we-chose-to-open-silverleaf-eldercare.md
@@ -23,6 +23,7 @@ _type: Article
 
 ---
 # Our Story: Why We Chose to Open Silverleaf Eldercare
+![Jason and Michelle at the Alamo Drafthouse Cinema](https://s3-us-west-2.amazonaws.com/the-grid-img/p/62fc4449dd916780f45dae204df84ef7e85365af.jpg)
 
 A few years ago we didn't know that assisted living communities in residential neighborhoods existed. But then that is probably the way it is for everyone, until they realize they need some help taking care of an older member of the family.
 
@@ -32,7 +33,7 @@ Michelle's dad has one of those degenerative memory ailments. No matter what the
 
 I'm sure many of you can relate.
 
-So we made the tough decision and started looking for a place where he could get the 24/7 care he needed from energetic staff who were well-trained to deal with his specific issues. ![Jason and Michelle at the Alamo Drafthouse Cinema](https://s3-us-west-2.amazonaws.com/the-grid-img/p/62fc4449dd916780f45dae204df84ef7e85365af.jpg)
+So we made the tough decision and started looking for a place where he could get the 24/7 care he needed from energetic staff who were well-trained to deal with his specific issues. 
 
 Initially we placed him in a large, VA approved assisted living / skilled nursing facility. He's a proud veteran and we hoped it would be a place he could settle into with little resistance. We quickly found it to be a nightmare. I won't go into all the details. Just know we needed to make a change fast.
 
