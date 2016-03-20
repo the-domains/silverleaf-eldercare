@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Where we believe the Golden Years deserve a silver lining.
-datePublished: '2016-03-20T22:34:48.776Z'
-dateModified: '2016-03-20T22:34:44.191Z'
+datePublished: '2016-03-20T22:51:27.189Z'
+dateModified: '2016-03-20T22:51:24.857Z'
 title: 'Welcome to Silverleaf Eldercare!'
 author: []
 sourcePath: _posts/2016-03-03-welcome-to-silverleaf-eldercare.md
@@ -24,7 +24,7 @@ _type: Article
 ---
 # Welcome to Silverleaf Eldercare!
 
-**Where we believe the Golden Years deserve a silver lining.**
+**Where we believe "The Golden Years Deserve a Silver Lining".**
 ![Laughter is darn good medicine](https://s3-us-west-2.amazonaws.com/the-grid-img/p/48f4ed46a2ca901cb5880a562da1bdd3b69f10c7.jpg)
 
 You have many choices to make as you and your loved ones get older and need more attention and care. Some people prefer a large community that starts from a place of active retirement. Others might wish to stay in their own homes as long as possible. 
