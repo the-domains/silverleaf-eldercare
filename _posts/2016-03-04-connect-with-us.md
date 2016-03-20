@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: Start the conversation today
-datePublished: '2016-03-08T01:12:09.855Z'
-dateModified: '2016-03-08T01:11:57.253Z'
+description: "We'll be officially opening in June 2016, but there's no reason to wait. Start the conversation today."
+datePublished: '2016-03-20T22:36:09.101Z'
+dateModified: '2016-03-20T22:36:05.823Z'
 title: Connect With Us
 author: []
 sourcePath: _posts/2016-03-04-connect-with-us.md
