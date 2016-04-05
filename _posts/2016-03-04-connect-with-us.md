@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Come join the family!'
-datePublished: '2016-04-05T02:05:47.655Z'
-dateModified: '2016-04-05T02:05:43.224Z'
+datePublished: '2016-04-05T02:05:13.895Z'
+dateModified: '2016-04-05T02:05:05.659Z'
 title: Connect With Us
 author: []
 sourcePath: _posts/2016-03-04-connect-with-us.md
