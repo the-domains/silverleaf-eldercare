@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "A few years ago we didn't know that assisted living communities in residential neighborhoods existed. But then that is probably the way it is for everyone, until they realize they need some help taking care of an older member of the family."
-datePublished: '2016-04-05T00:25:42.221Z'
-dateModified: '2016-04-05T00:25:07.099Z'
+datePublished: '2016-04-05T02:05:52.429Z'
+dateModified: '2016-04-05T00:26:02.653Z'
 title: 'Our Story: Why We Chose to Open Silverleaf Eldercare'
 author: []
 sourcePath: _posts/2016-03-13-our-story-why-we-chose-to-open-silverleaf-eldercare.md
@@ -23,7 +23,7 @@ _type: Article
 
 ---
 # Our Story: Why We Chose to Open Silverleaf Eldercare
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fe66b4eb-6c66-48c9-a323-0edd1a548fad.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9f9cf44d0ed7dd26951dbcf92be8ce589d2da5f3.jpg)
 
 A few years ago we didn't know that assisted living communities in residential neighborhoods existed. But then that is probably the way it is for everyone, until they realize they need some help taking care of an older member of the family.
 
