@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "A few years ago we didn't know that assisted living communities in residential neighborhoods existed. But then that is probably the way it is for everyone, until they realize they need some help taking care of an older member of the family."
-datePublished: '2016-03-20T22:45:05.125Z'
-dateModified: '2016-03-20T22:45:03.114Z'
+datePublished: '2016-04-05T00:25:42.221Z'
+dateModified: '2016-04-05T00:25:07.099Z'
 title: 'Our Story: Why We Chose to Open Silverleaf Eldercare'
 author: []
 sourcePath: _posts/2016-03-13-our-story-why-we-chose-to-open-silverleaf-eldercare.md
@@ -23,6 +23,7 @@ _type: Article
 
 ---
 # Our Story: Why We Chose to Open Silverleaf Eldercare
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fe66b4eb-6c66-48c9-a323-0edd1a548fad.jpg)
 
 A few years ago we didn't know that assisted living communities in residential neighborhoods existed. But then that is probably the way it is for everyone, until they realize they need some help taking care of an older member of the family.
 
@@ -31,7 +32,6 @@ We tried in-home care for a while, but a few hours of help here and there just w
 Michelle's dad has one of those degenerative memory ailments. No matter what the label -- Alzheimer's, Lewy Body Disease, Dementia, etc. -- the issues are similar.  We live in another city, so Michelle's mom had taken on the duty of full-time care for her spouse. She's a small lady, so bathing and dressing her husband was a difficult feat of strength and will. It's tough and takes a toll to care for another person so much that you can't really take care of yourself. No weekends. No time off.
 
 I'm sure many of you can relate.
-![Jason and Michelle at the Alamo Drafthouse Cinema](https://s3-us-west-2.amazonaws.com/the-grid-img/p/62fc4449dd916780f45dae204df84ef7e85365af.jpg)
 
 So we made the tough decision and started looking for a place where he could get the 24/7 care he needed from energetic staff who were well-trained to deal with his specific issues. 
 
