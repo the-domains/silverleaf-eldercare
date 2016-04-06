@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Come join the family!'
-datePublished: '2016-04-06T14:53:05.490Z'
-dateModified: '2016-04-06T14:52:56.747Z'
+datePublished: '2016-04-06T15:05:09.042Z'
+dateModified: '2016-04-06T15:05:05.897Z'
 title: Connect With Us
 author: []
 sourcePath: _posts/2016-03-04-connect-with-us.md
@@ -31,6 +31,6 @@ We'll be officially opening in June 2016, but there's no reason to wait. **Start
 We'll also be sure to follow up soon to talk about how Silverleaf Eldercare at Wildridge could be the perfect community for your loved one. 
 
 Come join the family!
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/258cf3ca-60fb-430e-9e4c-08ae54e89f15.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4cbd48ca72c8722b4ebba393a2b54b1846461057.jpg)
 
 [0]: https://digital-tales.leadpages.co/silverleaf-eldercare-topsigns-oi/
