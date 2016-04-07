@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Come join the family!'
-datePublished: '2016-04-07T06:03:45.409Z'
-dateModified: '2016-04-07T05:23:34.437Z'
+datePublished: '2016-04-07T06:06:14.964Z'
+dateModified: '2016-04-07T06:04:05.849Z'
 title: Connect With Us
 author: []
 sourcePath: _posts/2016-03-04-connect-with-us.md
@@ -24,13 +24,12 @@ _type: Article
 ---
 # Connect With Us
 
-[CLICK HERE to connect with us and claim your **FREE GUIDE to help you know when it's time to move from home to assisted living**][0]. 
+[CLICK HERE to connect with us and claim your **FREE GUIDE to help you know when it's time to move from home to assisted living**][0]. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4cbd48ca72c8722b4ebba393a2b54b1846461057.jpg)
 
 We'll be officially opening in June 2016, but there's no reason to wait. **Start the conversation today****.**
 
 We'll also be sure to follow up soon to talk about how Silverleaf Eldercare at Wildridge could be the perfect community for your loved one. 
 
 Come join the family!
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4cbd48ca72c8722b4ebba393a2b54b1846461057.jpg)
 
 [0]: https://digital-tales.leadpages.co/silverleaf-eldercare-topsigns-oi/
