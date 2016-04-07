@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: true
 keywords: []
-description: 'Where we believe "The Golden Years Deserve a Silver Lining".'
-datePublished: '2016-04-07T06:06:01.669Z'
-dateModified: '2016-04-07T06:05:57.268Z'
+description: 'Where we believe "Your Golden Years Deserve a Silver Lining".'
+datePublished: '2016-04-07T06:09:28.711Z'
+dateModified: '2016-04-07T06:09:28.123Z'
 title: 'Welcome to Silverleaf Eldercare!'
 author: []
 sourcePath: _posts/2016-03-03-welcome-to-silverleaf-eldercare.md
