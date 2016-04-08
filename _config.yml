@@ -1,6 +1,6 @@
 name: Silverleaf Eldercare
 favicon: null
-layout_spectrum: 0.15808
+layout_spectrum: 0
 typography_spectrum: 0.43707
 title: Silverleaf Eldercare - Assisted Living at Wildridge
 cta:
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.4375
   lightness: 0.75
   saturation: 0.875
-  rhythmicContrast: 1
+  rhythmicContrast: 0.5
 purpose: []
