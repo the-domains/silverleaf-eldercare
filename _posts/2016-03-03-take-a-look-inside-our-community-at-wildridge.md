@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Creature Comforts. Certified care. Social connection.
-datePublished: '2016-04-13T15:18:20.226Z'
-dateModified: '2016-04-13T15:18:10.344Z'
+datePublished: '2016-04-14T14:21:29.656Z'
+dateModified: '2016-04-14T14:21:26.796Z'
 title: Take a Look Inside our Community at Wildridge
 author: []
 sourcePath: _posts/2016-03-03-take-a-look-inside-our-community-at-wildridge.md
@@ -25,7 +25,7 @@ _type: Article
 # Take a Look Inside our Community at Wildridge
 
 **Creature Comforts. Certified care. Social connection.**
-![Welcome to Silverleaf Eldercare @ Wildridge](https://s3-us-west-2.amazonaws.com/the-grid-img/p/23a169167d7a1f818a3de1f9ae07201115d44b8d.jpg)
+![Welcome to Silverleaf Eldercare @ Wildridge](https://s3-us-west-2.amazonaws.com/the-grid-img/p/52b7a5aecd23318891dc942f183cc0afa0944a56.jpg)
 
 Our large, single story home in the Northwest Hills neighborhood of Austin has been intelligently re-designed by award winning Matt Fajkus Architecture.
 
