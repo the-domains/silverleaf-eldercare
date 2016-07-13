@@ -1,12 +1,12 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
 description: Come join the family!
-datePublished: '2016-07-13T03:00:37.284Z'
-dateModified: '2016-07-13T03:00:32.416Z'
+datePublished: '2016-07-13T03:45:03.105Z'
+dateModified: '2016-07-13T03:44:41.891Z'
 title: Connect With Us
 author:
   - name: ''
@@ -16,7 +16,7 @@ authors: []
 publisher: null
 starred: false
 url: connect-with-us/index.html
-_type: Article
+_type: WebPage
 
 ---
 # Connect With Us
