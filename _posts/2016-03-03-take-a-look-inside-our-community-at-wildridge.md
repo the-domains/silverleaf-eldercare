@@ -3,21 +3,18 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
 description: Creature Comforts. Certified care. Social connection.
-datePublished: '2016-04-14T14:21:29.656Z'
-dateModified: '2016-04-14T14:21:26.796Z'
+datePublished: '2016-07-13T02:52:44.134Z'
+dateModified: '2016-07-13T02:45:32.205Z'
 title: Take a Look Inside our Community at Wildridge
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-03-03-take-a-look-inside-our-community-at-wildridge.md
-published: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
+starred: false
 url: take-a-look-inside-our-community-at-wildridge/index.html
 _type: Article
 
