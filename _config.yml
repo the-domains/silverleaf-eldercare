@@ -1,20 +1,4 @@
-name: Silverleaf Eldercare
-favicon: null
-layout_spectrum: 0.35058
 typography_spectrum: 0.43707
-title: Silverleaf Eldercare - Assisted Living at Wildridge
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#338a97'
@@ -26,4 +10,21 @@ color:
   lightness: 0.75
   saturation: 0.5625
   rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.35058
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Silverleaf Eldercare
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Silverleaf Eldercare - Assisted Living at Wildridge
+description: Your Golden Years Deserve A Silver Lining
 purpose: []
