@@ -9,15 +9,16 @@ description: >-
   neighborhoods existed. But then that is probably the way it is for everyone,
   until they realize they need some help taking care of an older member of the
   family.
-datePublished: '2016-07-13T03:45:18.813Z'
-dateModified: '2016-07-13T03:45:15.316Z'
+datePublished: '2016-08-29T02:29:21.630Z'
+dateModified: '2016-08-29T02:29:21.140Z'
 title: 'Our Story: Why We Chose to Open Silverleaf Eldercare'
 author:
   - name: ''
     url: ''
 sourcePath: _posts/2016-03-13-our-story-why-we-chose-to-open-silverleaf-eldercare.md
 authors: []
-publisher: null
+publisher: {}
+via: {}
 starred: false
 url: our-story-why-we-chose-to-open-silverleaf-eldercare/index.html
 _type: WebPage
