@@ -34,6 +34,9 @@ navigation:
   - name: Take a Look Inside our Community at Wildridge
     id: 40bfddd3-8bfa-4b93-a480-b149079d97cd
     type: content
+  - name: Connect With Us
+    id: 4f3f7af3-3754-489f-90b2-4e7734279e66
+    type: content
 favicon: null
 title: Silverleaf Eldercare - Assisted Living at Wildridge
 description: Your Golden Years Deserve A Silver Lining
