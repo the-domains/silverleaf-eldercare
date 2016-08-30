@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Welcome to Silverleaf Eldercare!
+    id: 3a482dca-38f9-40b3-bab6-a0c6c1321cd5
+    type: content
 favicon: null
 title: Silverleaf Eldercare - Assisted Living at Wildridge
 description: Your Golden Years Deserve A Silver Lining
