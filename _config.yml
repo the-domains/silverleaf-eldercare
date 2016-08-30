@@ -28,7 +28,7 @@ navigation:
   - name: Welcome!
     id: 3a482dca-38f9-40b3-bab6-a0c6c1321cd5
     type: content
-  - name: 'Our Story: Why We Chose to Open Silverleaf Eldercare'
+  - name: Our Story
     id: 88a6dea6-41cd-4b68-adb1-65b317572a42
     type: content
   - name: Take a Look Inside our Community at Wildridge
