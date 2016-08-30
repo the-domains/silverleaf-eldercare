@@ -1,4 +1,3 @@
-layout_spectrum: 0.35058
 typography_spectrum: 0.2690122900530696
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.35058
 analytics:
   google: null
   facebook: null
@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: 'Our Story: Why We Chose to Open Silverleaf Eldercare'
+    id: 88a6dea6-41cd-4b68-adb1-65b317572a42
+    type: content
 favicon: null
 title: Silverleaf Eldercare - Assisted Living at Wildridge
 description: Your Golden Years Deserve A Silver Lining
