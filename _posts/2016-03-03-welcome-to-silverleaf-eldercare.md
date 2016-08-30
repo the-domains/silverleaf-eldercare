@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-29T02:31:15.295Z'
+datePublished: '2016-08-29T02:34:22.333Z'
 sourcePath: _posts/2016-03-03-welcome-to-silverleaf-eldercare.md
 inFeed: true
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-29T02:31:14.725Z'
+dateModified: '2016-08-29T02:34:22.000Z'
 title: Welcome to Silverleaf Eldercare!
 publisher: {}
 description: Where we believe "Your Golden Years Deserve a Silver Lining".
@@ -23,7 +23,7 @@ _type: Article
 # Welcome to Silverleaf Eldercare!
 
 **Where we believe "Your Golden Years Deserve a Silver Lining".**
-![Laughter is darn good medicine](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8ddff1c8eb6f4ed699a36d7e2e84d5fa69b208e6.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8ddff1c8eb6f4ed699a36d7e2e84d5fa69b208e6.jpg)
 
 You have many choices to make as you and your loved ones get older and need more attention and care. Some people prefer a large community that starts from a place of active retirement. Others might wish to stay in their own homes as long as possible.
 
