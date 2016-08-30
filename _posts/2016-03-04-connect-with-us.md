@@ -5,15 +5,16 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Come join the family!
-datePublished: '2016-07-13T03:45:32.932Z'
-dateModified: '2016-07-13T03:45:11.728Z'
+datePublished: '2016-08-29T02:31:49.450Z'
+dateModified: '2016-08-29T02:31:48.998Z'
 title: Connect With Us
 author:
   - name: ''
     url: ''
 sourcePath: _posts/2016-03-04-connect-with-us.md
 authors: []
-publisher: null
+publisher: {}
+via: {}
 starred: false
 url: connect-with-us/index.html
 _type: WebPage
