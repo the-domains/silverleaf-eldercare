@@ -24,10 +24,6 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation:
-  - name: 'Our Story: Why We Chose to Open Silverleaf Eldercare'
-    id: 88a6dea6-41cd-4b68-adb1-65b317572a42
-    type: content
 favicon: null
 title: Silverleaf Eldercare - Assisted Living at Wildridge
 description: Your Golden Years Deserve A Silver Lining
