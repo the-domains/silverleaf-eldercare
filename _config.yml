@@ -25,7 +25,7 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: Welcome to Silverleaf Eldercare!
+  - name: Welcome!
     id: 3a482dca-38f9-40b3-bab6-a0c6c1321cd5
     type: content
   - name: 'Our Story: Why We Chose to Open Silverleaf Eldercare'
