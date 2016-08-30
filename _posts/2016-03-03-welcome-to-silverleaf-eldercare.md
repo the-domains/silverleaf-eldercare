@@ -1,23 +1,23 @@
 ---
-datePublished: '2016-08-29T01:55:12.301Z'
+datePublished: '2016-08-29T02:03:34.321Z'
 sourcePath: _posts/2016-03-03-welcome-to-silverleaf-eldercare.md
-inFeed: true
-isBasedOnUrl: ''
+inFeed: false
 authors: []
-hasPage: false
+hasPage: true
 keywords: []
 author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-29T01:54:56.818Z'
+dateModified: '2016-08-29T02:03:29.860Z'
 title: Welcome to Silverleaf Eldercare!
 publisher: {}
 description: Where we believe "Your Golden Years Deserve a Silver Lining".
 inLanguage: null
 inNav: true
 starred: true
-_type: Blurb
+url: welcome-to-silverleaf-eldercare/index.html
+_type: WebPage
 
 ---
 # Welcome to Silverleaf Eldercare!
